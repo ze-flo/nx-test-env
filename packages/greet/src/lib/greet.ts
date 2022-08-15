@@ -1,3 +1,3 @@
-export function greet(): string {
-  return 'greet';
+export function greet(greeting: string) {
+  console.log(greeting);
 }
