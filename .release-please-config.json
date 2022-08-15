@@ -1,32 +1,7 @@
 {
-  "plugins": ["node-workspace"],
-  "bump-minor-pre-major": true,
-  "bump-patch-for-minor-pre-major": true,
-  "changelog-sections": [
-    { "type": "feat", "section": ":rocket:  Features" },
-    { "type": "feature", "section": "Features" },
-    { "type": "fix", "section": ":bug:  Bug Fixes" },
-    {
-      "type": "perf",
-      "section": ":bullettrain_front:  Performance Improvements"
-    },
-    { "type": "revert", "section": ":rewind:  Reverts" },
-    { "type": "docs", "section": "Documentation", "hidden": true },
-    { "type": "style", "section": "Styles", "hidden": true },
-    { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
-    { "type": "refactor", "section": "Code Refactoring", "hidden": true },
-    { "type": "test", "section": "Tests", "hidden": true },
-    { "type": "build", "section": "Build System", "hidden": true },
-    { "type": "ci", "section": "Continuous Integration", "hidden": true }
-  ],
-  "always-link-local": false,
-  "include-v-in-tag": true,
+  "bootstrap-sha": "92f54104ad427c6b6d517e2804636e0a4279caa4",
   "packages": {
-    "packages/greet": {
-      "release-type": "node"
-    },
-    "packages/ciao": {
-      "release-type": "node"
-    }
+    "packages/greet": {},
+    "packages/ciao": {}
   }
 }
