@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+# Auto-generated and formatted by release-please
+**/CHANGELOG.md
+.release-please-manifest.json
