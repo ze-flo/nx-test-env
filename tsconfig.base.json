@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@zeflo/ciao": ["packages/ciao/src/index.ts"],
       "@zeflo/greet": ["packages/greet/src/index.ts"]
     }
   },
