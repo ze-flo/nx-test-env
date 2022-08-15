@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/ze-flo/nx-test-env/compare/greet-v0.1.0...greet-v0.2.0) (2022-08-15)
+
+
+### Features
+
+* add default greeting ([45d7e2b](https://www.github.com/ze-flo/nx-test-env/commit/45d7e2b01b5a9818798212abacb6d8e5645d6d4c))
+
 ## [0.1.0](https://www.github.com/ze-flo/nx-test-env/compare/greet-v0.0.1...greet-v0.1.0) (2022-08-15)
 
 
