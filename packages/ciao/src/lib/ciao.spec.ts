@@ -1,7 +1,11 @@
+/* eslint-disable @typescript-eslint/no-empty-function */
 import { ciao } from './ciao';
 
 describe('ciao', () => {
   it('should work', () => {
-    expect(ciao()).toEqual('ciao');
+    const logSpy = jest.spyOn(console, 'log').mockImplementation(() => {});
+    ciao('bye');
+    expect(logSpy).toHaveBeenCalled();
+    logSpy.mockReset();
   });
 });
