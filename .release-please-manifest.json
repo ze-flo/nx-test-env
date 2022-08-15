@@ -1,4 +1,1 @@
-{
-  "packages/greet": "0.0.1",
-  "packages/ciao": "0.0.1"
-}
+{"packages/ciao":"0.1.0","packages/greet":"0.1.0"}
