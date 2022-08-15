@@ -1,3 +1,3 @@
-export function ciao(message: string) {
+export function ciao(message = 'Ciao for now') {
   console.log(message);
 }
