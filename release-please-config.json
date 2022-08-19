@@ -24,11 +24,11 @@
   "include-component-in-tag": false,
   "packages": {
     "packages/greet": {
-      "release-type": "node",
-      "component": "leGreet"
+      "component": "leGreet",
+      "include-component-in-tag": false
     },
     "packages/ciao": {
-      "release-type": "node"
+      "include-component-in-tag": false
     }
   }
 }
