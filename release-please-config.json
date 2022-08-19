@@ -21,10 +21,11 @@
     { "type": "ci", "section": "Continuous Integration", "hidden": true }
   ],
   "always-link-local": false,
-  "include-v-in-tag": true,
+  "include-component-in-tag": false,
   "packages": {
     "packages/greet": {
-      "release-type": "node"
+      "release-type": "node",
+      "component": "leGreet"
     },
     "packages/ciao": {
       "release-type": "node"
