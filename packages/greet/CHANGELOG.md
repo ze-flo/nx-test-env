@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/ze-flo/nx-test-env/compare/greet-v0.2.0...greet-v0.2.1) (2022-08-19)
+
+
+### :bug:  Bug Fixes
+
+* correct capitalization ([ee24157](https://www.github.com/ze-flo/nx-test-env/commit/ee241577d439e55c03449262c5b3d86b22377a08))
+
 ## [0.2.0](https://www.github.com/ze-flo/nx-test-env/compare/greet-v0.1.0...greet-v0.2.0) (2022-08-15)
 
 
