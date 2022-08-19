@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/ze-flo/nx-test-env/compare/ciao-v0.1.1...ciao-v0.1.2) (2022-08-19)
+
+
+### :bug:  Bug Fixes
+
+* exclamation point for impact ([f26923e](https://www.github.com/ze-flo/nx-test-env/commit/f26923e4f08f91d6126c12e7aa3e0797b7ca28b8))
+
 ### [0.1.1](https://www.github.com/ze-flo/nx-test-env/compare/ciao-v0.1.0...ciao-v0.1.1) (2022-08-15)
 
 
